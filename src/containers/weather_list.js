@@ -11,7 +11,7 @@ class WeatherList extends Component {
 						<th>Temperature</th>
 						<th>Preasure</th>
 						<th>Humidity</th>
-					<tr>
+					</tr>
 				</thead>
 				<tbody>
 				</tbody>
